@@ -6,3 +6,9 @@ body{
     background-color:blue;
     color: H333;
 }
+header{
+    background: #333;
+    color: white;
+    padding: 20;
+    text-align: center;
+}
